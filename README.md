@@ -1,3 +1,12 @@
+# Run this
+1. Download https://drive.google.com/file/d/1ISemndlSDS2FtqQOKL0t3Cjj9yk2yznF/view
+2. put folder at `data/activitynet_feature_cuhk/csv_mean_100`
+3. To train the BMN:
+```
+python main.py --mode train
+```
+
+
 # BMN: Boundary-Matching Network
 
 A pytorch-version implementation codes of paper:
